@@ -1,7 +1,10 @@
 # app-dev
 My first repository
 
-## 06 Task Performance 1
+## Magnaye Steven Patrick
+BSIT-503
+
+### 06 Task Performance 1
 **Some information about my favorite series/movies.**
 
 My favorite series of all time has to go to *Breaking Bad*
